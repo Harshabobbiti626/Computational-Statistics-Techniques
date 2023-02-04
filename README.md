@@ -1,4 +1,4 @@
-# Statistical-Modelling-Techniques
+# Computational-Statistics-Techniques
 
 
 Computational Statistics is a branch of statistics that deals with the use of computers to perform statistical analysis. It involves using algorithms, numerical methods and computational tools to solve complex statistical problems. Python is a popular programming language for computational statistics because of its simplicity, versatility, and a large community of data scientists.
